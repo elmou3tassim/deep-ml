@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:31:51.147Z",
+  "generated_at": "2026-11-04T16:11:58.322Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -107,6 +107,19 @@
       "path": "math/0409-schur-complements-and-the-partitioned-inverse",
       "first_solved_at": "2026-11-03T20:31:50.634Z",
       "last_pushed_at": "2026-11-03T20:31:50.634Z"
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-11-04T16:11:58.667Z",
+      "last_pushed_at": "2026-11-04T16:11:58.667Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
